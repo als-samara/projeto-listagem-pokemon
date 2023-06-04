@@ -4,6 +4,7 @@ body {
     margin: 0 auto;
     background-color: #e7e5e5ad;
     color: #333333;
+    margin-bottom: 30px;
 }
 
 /* No font-family, caso a primeira fonte não carregue, vai ser usada a segunda fonte, colocada após a vírgula, nesse caso, a sans serif */
