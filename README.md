@@ -10,4 +10,4 @@ HTML 5 | CSS3 | JavaScript
 
 ## Deploy
 
-<a href="https://als-samara.github.io/projeto-listagem-pokemon/" alt="link do deploy" target="_blanket">https://als-samara.github.io/projeto-listagem-pokemon/</a>
+<a href="https://als-samara.github.io/projeto-listagem-pokemon/" alt="link do deploy" target="_blank">https://als-samara.github.io/projeto-listagem-pokemon/</a>
