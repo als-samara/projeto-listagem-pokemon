@@ -7,3 +7,7 @@ HTML 5 | CSS3 | JavaScript
 
 ## Preview
 <img src="./src/imagens/readmegif.gif" alt="preview do projeto">
+
+## Deploy
+
+https://als-samara.github.io/projeto-listagem-pokemon/
